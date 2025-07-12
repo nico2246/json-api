@@ -1,0 +1,16 @@
+[
+  {
+    "email": "nic.escobar@duocuc.cl",
+    "name": "Nico1",
+    "password": "Nico.2246",
+    "username": "Nico1",
+    "birthdate": "2025-07-07"
+  },
+  {
+    "email": "maria.perez@example.com",
+    "name": "MariaP",
+    "password": "Maria.1234",
+    "username": "MariaP",
+    "birthdate": "1995-03-12"
+  }
+]
